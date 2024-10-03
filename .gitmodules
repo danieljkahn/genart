@@ -1,3 +1,9 @@
 [submodule "Audio_Snowflake"]
 	path = Audio_Snowflake
 	url = https://github.com/doubledherin/Audio_Snowflake.git
+[submodule "cymatics"]
+	path = cymatics
+	url = https://github.com/santex/cymatics.git
+[submodule "ChladniPlate2"]
+	path = ChladniPlate2
+	url = https://github.com/flutomax/ChladniPlate2.git
