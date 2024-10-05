@@ -7,3 +7,36 @@
 [submodule "ChladniPlate2"]
 	path = ChladniPlate2
 	url = https://github.com/flutomax/ChladniPlate2.git
+[submodule "Chladni"]
+	path = Chladni
+	url = https://github.com/Eugene-Y/Chladni.git
+[submodule "chladni-simulation"]
+	path = chladni-simulation
+	url = https://github.com/schroffl/chladni-simulation.git
+[submodule "4D-Chladni"]
+	path = 4D-Chladni
+	url = https://github.com/Cortexelus/4D-Chladni.git
+[submodule "chladni"]
+	path = chladni
+	url = https://github.com/dmackinnon1/chladni.git
+[submodule "chladni-dmack"]
+	path = chladni-dmack
+	url = https://github.com/dmackinnon1/chladni.git
+[submodule "3DChladni"]
+	path = 3DChladni
+	url = https://github.com/CDInstitute/3DChladni.git
+[submodule "Cymatics-Simulator-Chladni"]
+	path = Cymatics-Simulator-Chladni
+	url = https://github.com/PettaBoy/Cymatics-Simulator-Chladni.git
+[submodule "salad"]
+	path = salad
+	url = https://github.com/mtytel/salad.git
+[submodule "chladni-addiebarron"]
+	path = chladni-addiebarron
+	url = https://github.com/addiebarron/chladni.git
+[submodule "Chladni-patterns"]
+	path = Chladni-patterns
+	url = https://github.com/kai5z/Chladni-patterns.git
+[submodule "chladnie-luciopaiva"]
+	path = chladnie-luciopaiva
+	url = https://github.com/luciopaiva/chladni.git
