@@ -40,3 +40,6 @@
 [submodule "chladnie-luciopaiva"]
 	path = chladnie-luciopaiva
 	url = https://github.com/luciopaiva/chladni.git
+[submodule "multipleWindow3dScene"]
+	path = multipleWindow3dScene
+	url = https://github.com/bgstaal/multipleWindow3dScene.git
